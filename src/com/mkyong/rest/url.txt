@@ -1,0 +1,11 @@
+http://localhost:8080/JerseyRest/rest/hello/mkyong
+http://localhost:8080/JerseyRest/rest/users
+http://localhost:8080/JerseyRest/rest/users/123
+http://localhost:8080/JerseyRest/rest/users/books/123
+http://localhost:8080/JerseyRest/rest/users/JOhn
+http://localhost:8080/JerseyRest/rest/users/username/a9
+http://localhost:8080/JerseyRest/rest/users/mkyong
+
+http://localhost:8080/JerseyRest/UserForm.html
+
+http://localhost:8080/JerseyRest/rest/user/query?from=100&to=200&orderBy=age&orderBy=name
